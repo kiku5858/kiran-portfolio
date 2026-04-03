@@ -67,7 +67,7 @@ src/
 
 * 📧 Email: kirankumari20850@gmail.com
 * 💼 LinkedIn: https://www.linkedin.com/in/kiran-kumari-b81b941bb/
-* 💻 GitHub: https://github.com/your-username
+* 💻 GitHub: https://github.com/kiku5858
 
 ---
 
