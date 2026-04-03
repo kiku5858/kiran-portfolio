@@ -49,15 +49,16 @@ src/
 
 ### 🏠 Home Page
 
-![Home](src/screenshots/screenshot1.jpg)
+![Home](screenshots/screenshot1.jpg)
 
 ### 💼 Projects Section
 
-![Projects](src/screenshots/screenshot2.jpg)
+![Projects](screenshots/screenshot2.jpg)
 
 ### 📞 Contact Section
 
-![Contact](src/screenshots/screenshot3.jpg)
+![Contact](screenshots/screenshot3.jpg)
+
 
 
 ---
