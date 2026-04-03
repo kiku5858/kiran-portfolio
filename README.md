@@ -1,3 +1,4 @@
+“Actively looking for Frontend Developer opportunities”
 # 🌐 Kiran Portfolio
 
 ## 🚀 Live Demo
