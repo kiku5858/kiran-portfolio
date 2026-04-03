@@ -47,7 +47,20 @@ src/
 
 ## 📸 Screenshots
 
-(Add your portfolio screenshots here later)
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home](src/screenshots/screenshot1.jpg)
+
+### 💼 Projects Section
+
+![Projects](src/screenshots/screenshot2.jpg)
+
+### 📞 Contact Section
+
+![Contact](src/screenshots/screenshot3.jpg)
+
 
 ---
 
