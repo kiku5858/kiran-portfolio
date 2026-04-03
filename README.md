@@ -1,16 +1,69 @@
-# React + Vite
+# 🌐 Kiran Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Live Demo
 
-Currently, two official plugins are available:
+🔗 [View Portfolio](https://your-portfolio-link.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📌 About The Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This is my personal portfolio website built to showcase my skills, projects, and achievements as a **Frontend Developer**.
 
-## Expanding the ESLint configuration
+It includes sections like About, Skills, Projects, Certificates, and Contact.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Vite
+
+---
+
+## ✨ Features
+
+* Responsive Design (Mobile + Desktop)
+* Smooth Scrolling
+* Modern UI/UX
+* Project Showcase with Live Links
+* Resume Download Option
+
+---
+
+## 📂 Project Structure
+
+src/
+├── components/
+├── pages/
+├── assets/
+└── styles/
+
+---
+
+## 📸 Screenshots
+
+(Add your portfolio screenshots here later)
+
+---
+
+## 📞 Contact
+
+* 📧 Email: kirankumari20850@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/kiran-kumari-b81b941bb/
+* 💻 GitHub: https://github.com/your-username
+
+---
+
+## 🙋‍♀️ Author
+
+**Kiran Kumari**
+
+---
+
+## ⭐ If you like this project
+
+Give it a star ⭐ on GitHub!
