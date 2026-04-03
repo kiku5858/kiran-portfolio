@@ -47,8 +47,6 @@ src/
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🏠 Home Page
 
 ![Home](src/screenshots/screenshot1.jpg)
